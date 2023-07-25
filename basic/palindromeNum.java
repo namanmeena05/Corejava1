@@ -1,6 +1,6 @@
 package com.rays.basic;
 
-public class palindromeNum {
+public class PalindromeNum {
 	public static void main(String[] args) {
 		int n = 171;
 		int r;

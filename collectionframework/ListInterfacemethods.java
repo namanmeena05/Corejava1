@@ -13,11 +13,11 @@ public class ListInterfacemethods {
 		a.add(4, "sachin");
 		a.add(5," DK");
 		System.out.println(a.get(2));
-		System.out.println(a.remove(0));
+		//System.out.println(a.remove(0));
 		System.out.println(a);
 		a.set(2, 102);
 		System.out.println(a);
-		System.out.println(a.subList(2, 4));	
+		System.out.println("display subset" + a.subList(0, 3));	
 		System.out.println(a.indexOf(102));
 		System.out.println(a.lastIndexOf("sachin"));
 		

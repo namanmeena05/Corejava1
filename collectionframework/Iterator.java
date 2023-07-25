@@ -16,6 +16,8 @@ public class Iterator {
 			Object o = it.next();
 
 			System.out.println(o);
+			it.remove();
+			System.out.println(c);
 
 		}
 	}

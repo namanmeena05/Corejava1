@@ -4,7 +4,7 @@ public class AvgOfAllEvenNUM {
 
 
 		public static void main(String[] args) {
-			int n = 10 ;
+			int n = 100 ;
 			int sum = 0;
 			int avg;
 			int count = 0;
@@ -15,7 +15,7 @@ public class AvgOfAllEvenNUM {
 				}
 			}
 			avg = sum / count;
-			System.out.println("Average of sum of all odd number  " + avg);
+			System.out.println("Average of sum of all even number  " + avg);
 
 		}
 

@@ -3,7 +3,7 @@ package com.rays.basic;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class testDate {
+public class TestDate {
 
 	public static void main(String[] args) {
 		Date d = new Date();

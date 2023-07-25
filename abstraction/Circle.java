@@ -11,7 +11,7 @@ public class Circle extends Shape {
 	}
 	public void area() {
 		
-		double totalArea = 2*pi*radius*radius;
+		double totalArea = pi*radius*radius;
 		System.out.println(totalArea);
 		
 		

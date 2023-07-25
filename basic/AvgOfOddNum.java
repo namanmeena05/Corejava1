@@ -2,7 +2,7 @@ package com.rays.basic;
 
 public class AvgOfOddNum {
 	public static void main(String[] args) {
-		int n = 10 ;
+		int n = 100 ;
 		int sum = 0;
 		int avg;
 		int count = 0;

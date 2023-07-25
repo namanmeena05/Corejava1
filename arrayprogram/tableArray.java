@@ -3,7 +3,7 @@ package com.rays.arrayprogram;
 public class tableArray {
 	public static void main(String[] args) {
 
-		int table[][] = new int[15][10];
+		int table[][] = new int[10][10];
 		for (int i = 0; i < table.length; i++) {
 			for (int j = 0; j < table[i].length; j++) {
 				int m = i + 2;
